@@ -1,0 +1,16 @@
+{
+  "name": "telegram-userbot-broadcast",
+  "version": "1.0.0",
+  "description": "Userbot Broadcast Aman",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegram": "^2.19.10",
+    "input": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
